@@ -2,7 +2,7 @@
 
 [PLAY NOW](https://pearceman.github.io/guess-my-number.github.io/)
 
-### Welcome to my first public GitHub project.
+### Welcome to my first public GitHub project. ✌️
 
 #### It a huge step for me as I was struggeling actually finishing anything.
 
@@ -13,7 +13,8 @@
 (I was working on top of a ready design)
 Maybe in the future I will also edit the design.
 
-###I've learn few things in this project:
+
+### I've learn few things in this project:
 - The way you naming variables and functions should be consistent. 
 
 ##### example: 
