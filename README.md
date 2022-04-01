@@ -13,7 +13,7 @@
 (I was working on top of a ready design)
 Maybe in the future I will also edit the design.
 
-I've learn few things in this project:
+###I've learn few things in this project:
 - The way you naming variables and functions should be consistent. 
 
 ##### example: 
